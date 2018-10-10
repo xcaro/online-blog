@@ -1,7 +1,7 @@
 # main text of home
-name: Nhan Ne
+name: Nhan Vo
 # bio: Chicken of programming world 
-bio: I'm 17 y/o,.
+bio: I'm a Software Engineer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -15,9 +15,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://digic.io
+resume-url: https://nhanvo.net
 
-url: https://cuibapcode.net
+url: https://nhanvo.net
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -108,6 +108,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com
